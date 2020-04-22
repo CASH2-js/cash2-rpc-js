@@ -1,7 +1,7 @@
 {
-  "name": "turtlecoin-rpc",
+  "name": "cash2-rpc",
   "version": "2.0.5",
-  "description": "TurtleCoin RPC API Interface in NodeJS",
+  "description": "CASH2 RPC API Interface in NodeJS",
   "main": "index.js",
   "files": [
     "dist/TurtleCoinRPC.js",
@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-rpc-js.git"
+    "url": "git+https://github.com/CASH2-js/cash2-rpc-js.git"
   },
   "keywords": [
     "TurtleCoin",
     "RPC",
     "API"
   ],
-  "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
+  "author": "Brandon Lehmann <brandonlehmann@gmail.com> / wkibbler",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-rpc-js/issues"
+    "url": "https://github.com/CASH2-js/cash2-rpc-js/issues"
   },
-  "homepage": "https://github.com/turtlecoin/turtlecoin-rpc-js#readme",
+  "homepage": "https://github.com/CASH2-js/cash2-rpc-js#readme",
   "standard": {
     "ignore": [
       "dist/*",
